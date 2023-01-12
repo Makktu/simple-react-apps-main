@@ -1,0 +1,9 @@
+.count_display {
+    font-size: 3rem;
+    margin-left: 25px;
+}
+
+button {
+    background-color: rgb(186, 198, 200);
+    font-size: 4rem;
+}
